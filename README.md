@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - [Projeto massoterapia](https://gittmau.github.io/spa/)
 - [Projeto manicure](https://gittmau.github.io/studioPaty/)
 - [Projeto Cedesp](https://gittmau.github.io/cedesp/)
-- [Projeto fábrica de textura](https://gittmau.github.io/aleCrillTintas/) 
+- [Projeto fábrica de textura](https://gittmau.github.io/aleCrillTintas/)
+- [Projeto para serviços jurídicos](https://gittmau.github.io/juridicos/)
