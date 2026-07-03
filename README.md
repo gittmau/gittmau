@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
 **gittmau/gittmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Olá, eu sou o Mauricio (gittmau) 
+
+## Minhas páginas
+- [Portfólio](https://maudev.com.br/)
+- [Projeto pessoal para links de afiliado](https://guiatechzen.com.br/)
+- [Projeto massoterapia](https://gittmau.github.io/spa/)
+- [Projeto manicure](https://gittmau.github.io/studioPaty/)
+- [Projeto Cedesp](https://gittmau.github.io/cedesp/)
+- [Projeto fábrica de textura](https://gittmau.github.io/aleCrillTintas/) 
